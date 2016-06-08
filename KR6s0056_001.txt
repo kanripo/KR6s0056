@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:07.108020
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 進旨
 #+PROPERTY: CBETA_ID T85n2864
 #+PROPERTY: ID KR6s0056
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2864
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0056_T_000-1324a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0056_T_001-1324a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2864¶
-
- 進旨¶
+No. 2864¶
+進旨¶
 ¶
 
 進旨　皇帝聞語滿目流淚。良久乃言和尚¶
